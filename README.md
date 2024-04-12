@@ -7,7 +7,7 @@ In the ever-evolving landscape of work, the emergence of artificial intelligence
 ## Getting Started
 The impact of AI on employment is a topic of both fascination and concern. Through rigorous analysis and examination, I aim to provide a comprehensive understanding of the multifaceted impact AI exerts on different facets, such as industries, job roles, human-performed tasks, and workload ratio.
 
-<img src="images/life_cycle.png" alt="Life_Cycle_Image" height="600" width="600"/>
+<img src="images/life_cycle.png" alt="Life_Cycle_Image" height="500" width="500"/>
 
 
 
