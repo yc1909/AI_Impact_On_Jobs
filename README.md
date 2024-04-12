@@ -1,5 +1,5 @@
 # AI’s Impact: Redefining Jobs and Workplaces
-<img src="images/AI_vs_Human.jpg" alt="Example Image" height="600" width="800"/>
+<img src="images/AI_vs_Human.jpg" alt="Example Image" height="600" width="700"/>
 
 ## Introduction
 In the ever-evolving landscape of work, the emergence of artificial intelligence (AI) has been both a beacon of innovation and a harbinger of change. As businesses embrace AI technologies to streamline processes, enhance productivity, and gain competitive advantage, the implications for employee jobs are profound and far-reaching. From automation and augmentation to the reshaping of entire industries.
