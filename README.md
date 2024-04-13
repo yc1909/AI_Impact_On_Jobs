@@ -13,7 +13,7 @@ The progression of a data analysis project mirrors the stages of evolution as de
 What is impact of AI on employment? This is a topic of both fascination and concern. Through rigorous analysis and examination, I aim to provide a comprehensive understanding of the multifaceted impact AI exerts on different facets, such as industries, job roles, human-performed tasks, and workload ratio.
 
 ### 2.2 Data Acquition
-The dataset 'My_Data.csv' was acquired from [here](https://www.kaggle.com/datasets/manavgupta92/from-data-entry-to-ceo-the-ai-job-threat-index).
+The dataset `My_Data.csv` was acquired from [here](https://www.kaggle.com/datasets/manavgupta92/from-data-entry-to-ceo-the-ai-job-threat-index).
 
 ### 2.3 Data Management
 Various steps where performed to understand, clean and engineer the raw data:
