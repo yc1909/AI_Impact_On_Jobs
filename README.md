@@ -7,7 +7,7 @@ In the ever-evolving landscape of work, the emergence of artificial intelligence
 ## 2. Getting Started
 The progression of a data analysis project mirrors the stages of evolution as depicted in the image below. The impact of AI on employee jobs follows the same life cycle.
 
-<img src="images/DA-Life-Cycle.png" alt="Example Image" height="400" width="400"/>
+<img src="images/DA-Life-Cycle.png" alt="Example Image" height="500" width="500"/>
 
 ### 2.1 Question Formulation
 What is impact of AI on employment? This is a topic of both fascination and concern. Through rigorous analysis and examination, I aim to provide a comprehensive understanding of the multifaceted impact AI exerts on different facets, such as industries, job roles, human-performed tasks, and workload ratio.
@@ -34,10 +34,5 @@ After completing the analysis, it's essential to extract clear, comprehensible, 
 ### 2.6 Deployment & Implementation
 The "Deployment & Implementation" phase of the Data Analysis Life Cycle involves putting the insights and solutions derived from the analysis into action. This phase focuses on integrating the findings into real-world systems or processes, often through the development and deployment of software applications, models, or tools. It also encompasses creating documentation, training materials, and support mechanisms to ensure successful adoption by stakeholders. Continuous monitoring and evaluation are key during this phase to assess the effectiveness of the implemented solutions and make necessary adjustments. Overall, successful deployment and implementation ensure that the insights gained from data analysis drive tangible outcomes and business value.
 
-
-
-
-
-
-
-
+## Conclusion
+The impact of AI isn’t as straightforward as it seems, with certain aspects being more affected than others. As the world advances, stepping into the age of artificial intelligence brings both opportunities and challenges. However, it’s certain that humanity will experience another wave of revolution, shaping the future of work and society.
