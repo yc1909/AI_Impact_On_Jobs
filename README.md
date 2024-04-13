@@ -23,7 +23,7 @@ Various steps where performed to understand, clean and engineer the raw data:
 
 ### 2.4 Data Analysis
 In the "Exploring Data" section of the notebook, a comprehensive analysis of the impact of AI on jobs is presented. Here:
-1. Efforts are made to comprehend the relationships between various features
+1. Efforts are made to comprehend the relationships between various features.
 2. Assess feature influence on employee jobs.
 3. Examine the distribution of feature types.
 4. Understand the behavior of the features and look for patterns.
